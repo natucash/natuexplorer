@@ -1,6 +1,6 @@
-# w8io
+# NIOBIOCASH EXPLORER
 
-[w8io](https://github.com/deemru/w8io) is a fast and techie Waves Platform blockchain explorer based on PHP and SQLite.
+NIOBIOCASH EXPLORER is a fast and techie NIOBIOCASH Platform blockchain explorer based on PHP and SQLite.
 
 ## Basic usage
 - first run (fast, minimal indexes): `php w8_updater.php`
