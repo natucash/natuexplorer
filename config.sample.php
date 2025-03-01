@@ -36,9 +36,9 @@ define( 'W8IO_DB_DIR', __DIR__ . '/var/db/' );
 define( 'W8IO_DB_PATH', W8IO_DB_DIR . 'blockchain.sqlite3' );
 define( 'W8DB', 'sqlite:' . W8IO_DB_PATH );
 
-define( 'W8IO_NODES', 'http://seed1.nbrc.uk:54849|http://seed2.nbrc.uk:54849|http://seed3.nbrc.uk:54849|http://nodes.nbr.uk' );
-define( 'W8IO_MATCHER', 'http://http://nodes.nbr.uk/matcher' );
-define( 'W8IO_NETWORK', 'N' ); // 'W' -- mainnet, 'T' -- testnet
+define( 'W8IO_NODES', 'http://node1.niobiocash.org:54849|http://node2.niobiocash.org:54849|http://node3.niobiocash.org:54849|http://nodes.niobiocash.org');
+define( 'W8IO_MATCHER', 'http://http://nodes.niobiocash.org/matcher' );
+define( 'W8IO_NETWORK', 'N' ); // 'N' -- mainnet, 'T' -- testnet
 define( 'W8IO_ROOT', '/' );
 define( 'W8IO_MAX_UPDATE_BATCH', 1 ); // set more on when on a local node
 define( 'W8IO_UPDATE_DELAY', 1 );
