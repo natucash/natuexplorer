@@ -1,6 +1,6 @@
-# NIOBIOCASH EXPLORER
+# NATUCASH EXPLORER
 
-NIOBIOCASH EXPLORER is a fast and techie NIOBIOCASH Platform blockchain explorer based on PHP and SQLite.
+NATUCASH EXPLORER is a fast and techie NATUCASH Platform blockchain explorer based on PHP and SQLite.
 
 ## Basic usage
 - first run (fast, minimal indexes): `php w8_updater.php`
